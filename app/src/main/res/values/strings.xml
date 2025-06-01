@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PokeApiXmlJava</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_pokemon">Error loading Pokemon</string>
+    <string name="retry">Retry</string>
+    <string name="no_pokemon_found">No Pokemon found</string>
+    <string name="pokemon_details">Pokemon Details</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="base_experience">Base Experience</string>
+    <string name="abilities">Abilities</string>
+    <string name="stats">Stats</string>
+    <string name="types">Types</string>
+</resources>
