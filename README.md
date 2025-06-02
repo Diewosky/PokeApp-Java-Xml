@@ -108,14 +108,6 @@ implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 - Java 11
 - Conexión a internet para llamadas API
 
-## Capturas de Pantalla
-
-La aplicación incluye:
-- Una vista de lista limpia con cards de Pokemon mostrando imagen, nombre, ID y tipo
-- Vista detallada con información comprensiva de Pokemon
-- Estados de carga suaves y manejo de errores
-- Componentes de Material Design en toda la aplicación
-
 ## Mejoras Futuras
 
 - Agregar funcionalidad de búsqueda
@@ -124,10 +116,6 @@ La aplicación incluye:
 - Incluir cadenas de evolución de Pokemon
 - Agregar más información detallada de Pokemon (movimientos, ubicaciones, etc.)
 - Implementar soporte para tema oscuro
-
-## Licencia
-
-Este proyecto es para propósitos educativos y utiliza la [PokeAPI](https://pokeapi.co/) gratuita.
 
 ## Tecnologías Confirmadas
 
